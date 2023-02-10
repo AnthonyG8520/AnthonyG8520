@@ -7,7 +7,7 @@
   <h3>Take some time and check out my Organization's for some cool projects 🤓</h3>
 <br>
   <h3>
-    - 🌱 I’m currently learning ... Spring Boot <br><br>
+    - 🌱 I’m currently learning ... Python <br><br>
   </h3>
   <h3>
     - 📫 How to reach me: <a href="mailto: anthony.j.gonzales22@gmail.com&body= - E-mail response from GitHub" target="_blank">anthony.j.gonzales22@gmail.com</a> <br><br>
