@@ -43,7 +43,7 @@
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
   </h2>
   
-  <a href="https://linkedin.com/in/anthony-gonzales-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cody-hodges-434aa0227" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/anthony-gonzales-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   
   <a href='https://www.github.com/AnthonyG8520'> <img width= '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
   </a> 
@@ -57,17 +57,11 @@
   <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AnthonyG8520&count_private=true&show_icons=true&theme=radical" />
-</div>
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyG8520" alt="AnthonyG8520" />
 </div>
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyG8520&theme=radical" />
-</div>
 
 <br>
 <br>
